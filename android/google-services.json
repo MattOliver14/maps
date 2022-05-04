@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934076616609",
+    "firebase_url": "https://helpers-maps2-default-rtdb.firebaseio.com",
+    "project_id": "helpers-maps2",
+    "storage_bucket": "helpers-maps2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934076616609:android:449892ae6f018541ed05e0",
+        "android_client_info": {
+          "package_name": "com.matt.delivery14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934076616609-be4ulak4m4ue9l7vmkgughoh2qtr0b2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1IHWSTRKiOgwYSTGWDCTV4gYIGD7zhio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934076616609-be4ulak4m4ue9l7vmkgughoh2qtr0b2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
