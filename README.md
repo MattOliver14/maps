@@ -33,3 +33,4 @@ O projeto conta com recursos de geolocalização, google maps e filtros de busca
 - [Customizar o estilo do Mapa](https://mapstyle.withgoogle.com/)
 - [Galeria de estilos de Mapa](https://snazzymaps.com/)
 # maps
+# maps
